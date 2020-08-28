@@ -10,8 +10,8 @@ Department activities
 > - Aptitude Tests
 > - Technical Tests
 > - Result
-   - Incentive Points 
-   - Award 
+>   -- Incentive Points 
+>   -- Award 
 
 
 # Coding Tests
