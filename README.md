@@ -15,7 +15,7 @@ Department activities
 - Feedback
 
 # Coding Tests
-
+---
 | Coding Test | Links |  Date | Incentive Points |
 | ------ | ------ | ------ | ------ |
 | CT-1 | [CSRE-CT1-2020](https://www.hackerrank.com/csre-ct1-2020) | 16 Aug 2020 | 2 |
