@@ -39,7 +39,5 @@ Department activities
 
 
 
-### License
-----
-[CSRE, IIT Bombay](https://www.csre.iitb.ac.in/)
+### License [CSRE, IIT Bombay](https://www.csre.iitb.ac.in/)
 
