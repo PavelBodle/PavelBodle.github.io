@@ -6,13 +6,13 @@
 
 Department activities 
 
-> Coding Tests
-> Aptitude Tests
-> Technical Tests
-> Result
+> - Coding Tests
+> - Aptitude Tests
+> - Technical Tests
+> - Result
    - Incentive Points 
    - Award 
-> Feedback
+
 
 # Coding Tests
 
