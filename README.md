@@ -15,7 +15,7 @@ Department activities
 - Feedback
 
 # Coding Tests
----
+
 | Coding Test | Links |  Date | Incentive Points |
 | ------ | ------ | ------ | ------ |
 | CT-1 | [CSRE-CT1-2020](https://www.hackerrank.com/csre-ct1-2020) | 16 Aug 2020 | 2 |
@@ -25,7 +25,7 @@ Department activities
 | CT-5 |  |  |  |
 | CT-6 |  |  |  |
 
-
+---
 # Aptitude Tests
 # Technical Tests
 # Result
@@ -36,7 +36,5 @@ Department activities
 
 
 
-### License
-----
-[CSRE, IIT Bombay](https://www.csre.iitb.ac.in/)
+### License [CSRE, IIT Bombay](https://www.csre.iitb.ac.in/)
 
