@@ -1,29 +1,10 @@
-# 
+[![N|Solid](https://github.com/PavelBodle/PavelBodle.github.io/blob/master/assets/logo.png?raw=true)](https://nodesource.com/products/nsolid)
 
-Foobar is a Python library for dealing with word pluralization.
+# CSRE Placement Portal 2020 
 
-## Installation
+### Contact DPC - [PavelBodle](https://www.linkedin.com/notifications/)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[CSRE, IIT Bombay](https://www.csre.iitb.ac.in/)
