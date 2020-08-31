@@ -2,7 +2,7 @@
 ![logo](https://github.com/PavelBodle/PavelBodle.github.io/blob/master/assets/logo.png?raw=true)
 # CSRE Placement Portal 2020 
 
-#### Contact DPC - [PavelBodle](https://www.linkedin.com/pavelbodle)
+#### Contact DPC - [PavelBodle](https://www.linkedin.com/in/pavelbodle/)
 
 ### Department activities 
 
