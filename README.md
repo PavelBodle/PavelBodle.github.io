@@ -2,9 +2,10 @@
 ![logo](https://github.com/PavelBodle/PavelBodle.github.io/blob/master/assets/logo.png?raw=true)
 # CSRE Placement Portal 2020 
 
-### Contact DPC - [PavelBodle](https://www.linkedin.com/notifications/)
-Email: [pavelbodle@teamshunya.com]
-Department activities 
+#### Contact DPC - [PavelBodle](https://www.linkedin.com/notifications/)
+[Email:](pavelbodle@teamshunya.com)
+
+### Department activities 
 
 > - Coding Tests
 > - Aptitude Tests
