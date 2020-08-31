@@ -3,7 +3,7 @@
 # CSRE Placement Portal 2020 
 
 ### Contact DPC - [PavelBodle](https://www.linkedin.com/notifications/)
-
+Email: [pavelbodle@teamshunya.com]
 Department activities 
 
 > - Coding Tests
